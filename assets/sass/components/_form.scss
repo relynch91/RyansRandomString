@@ -86,7 +86,6 @@
 			'color #{_duration(transition)} ease-in-out'
 		));
 		color: _palette(fg);
-		display: block;
 		width: 100%;
 		padding: 0.65em 0.75em;
 		background: none;
@@ -120,16 +119,20 @@
 
 	::-webkit-input-placeholder {
 		opacity: 0.375;
+		color: white;
 	}
 
 	:-moz-placeholder {
 		opacity: 0.375;
+		color: white;
 	}
 
 	::-moz-placeholder {
 		opacity: 0.375;
+		color: white;
 	}
 
 	:-ms-input-placeholder {
 		opacity: 0.375;
+		color: white;
 	}
