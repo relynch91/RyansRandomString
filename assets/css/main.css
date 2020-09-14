@@ -564,6 +564,7 @@ input, select, textarea {
 		font-size: 2.25em;
 		line-height: 1.25em;
 		letter-spacing: -0.05em;
+		color: whitesmoke;
 	}
 
 	@media screen and (max-width: 736px) {
@@ -621,7 +622,7 @@ input, select, textarea {
 /* Box */
 
 	.box {
-		background: #ffffff;
+		background: whitesmoke;
 		color: #39454b;
 		padding: 2em;
 	}
@@ -1832,7 +1833,7 @@ input, select, textarea {
 		left: 0;
 		top: 0;
 		width: 100%;
-		background: rgba(255, 255, 255, 0.95);
+		background: whitesmoke;
 		height: 3em;
 		line-height: 3em;
 		box-shadow: 0 0 0.15em 0 rgba(0, 0, 0, 0.1);
@@ -2043,7 +2044,7 @@ input, select, textarea {
 			}
 
 			.main.style3.primary {
-				background: #ffffff;
+				background: whitesmoke;
 			}
 
 			.main.style3.secondary {
@@ -2051,7 +2052,7 @@ input, select, textarea {
 			}
 
 		.main.dark {
-			color: #ffffff;
+			color: whitesmoke;
 		}
 
 			.main.dark a {
@@ -2059,7 +2060,7 @@ input, select, textarea {
 			}
 
 			.main.dark .button.style2 {
-				border-color: #ffffff;
+				border-color: whitesmoke;
 			}
 
 				.main.dark .button.style2:hover {
