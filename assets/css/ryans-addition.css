@@ -1,3 +1,12 @@
-.form-header > {
+.form-header {
     color: black
+}
+
+.form-input-box {
+    background-color: whitesmoke;
+}
+
+.submit-button-1 {
+    background-color: #fe5a1d;
+    color: black;
 }
