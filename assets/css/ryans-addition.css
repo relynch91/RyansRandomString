@@ -3,10 +3,14 @@
 }
 
 .form-input-box {
-    background-color: whitesmoke;
+    background-color: black;
 }
 
 .submit-button-1 {
     background-color: #fe5a1d;
     color: black;
+}
+
+.box-form {
+    background-color: black;
 }
