@@ -625,7 +625,7 @@ input, select, textarea {
 		color: black;
 		padding: 2em;
 		border: 1px solid;
-		border-radius: 2.5px;
+		border-radius: 5px;
 	}
 
 		.box > :last-child {
@@ -633,7 +633,7 @@ input, select, textarea {
 		}
 
 		.box.style2 {
-			padding: 2.0em 1.0em 2.0em 1.0em;
+			padding: 1.0em 1.0em 1.0em 1.0em;
 		}
 
 		@media screen and (max-width: 736px) {
